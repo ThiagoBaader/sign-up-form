@@ -44,3 +44,8 @@ Este projeto ajuda a reforçar conceitos importantes de formulários HTML e esti
 🔗 Referências
 
 - The Odin Project
+
+
+✅ Entrega:
+
+Resultado final: https://thiagobaader.github.io/sign-up-form/
